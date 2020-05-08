@@ -1,1 +1,3 @@
 # PraticandoPython
+
+Códigos simples!
